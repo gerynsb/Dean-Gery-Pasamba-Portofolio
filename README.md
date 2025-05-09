@@ -8,7 +8,6 @@ Tampilan
 
 ![image](https://github.com/user-attachments/assets/19702fa9-9dbd-4bfc-b674-0db89529cb7f)
 
-![image](https://github.com/user-attachments/assets/8ab6d30f-bc0e-47a5-b8b8-5ed4bbf162a1)
-
+![image](https://github.com/user-attachments/assets/e331edde-083f-44f2-a59a-88c6b7bfc898)
 
 Project ini adalah project sederhana awal perkuliahan saya yang isinya adalah mengenai portofolio yang saya buat tahun 2023, dan ini hanya menggunakan html, css dan javascript sederhana saja.
